@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    background-color: black;
+    font-family: Inter;
+}
+#main-container{
+    background-color: #1f1f1f;
+    color: white;
+    text-align: center;
+    margin: 0% auto;
+    width: 30%;
+    padding: 50px 30px;
+    border-radius: 20px;
+}
+#main-container img{
+    border-radius: 100%;
+}
+.buttons{
+    background-color: #333333;
+    padding: 15px 10px;
+    border-radius: 10px;
+}
+.buttons:hover{
+    background-color: #c4f82a;
+    color: black;
+    cursor: pointer;
+}
+.attribution{
+    color: white;
+}
